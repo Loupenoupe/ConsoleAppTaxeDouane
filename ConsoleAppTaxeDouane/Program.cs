@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //commentaire     
             Console.WriteLine("Quel est le prix de l'arme en pièces d'or ?");
             decimal prix = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Votre arme vient-elle :\n\n1 - Des Forges de la capital\n2 - Ateliers des Nains des Montagnes\n3 -  Port des Contrebandiers\n4 - Terres Sacrées du Temple");
